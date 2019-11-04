@@ -1,0 +1,10 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "BaseIndicadores": "Data Source=localhost,11433;Initial Catalog=BaseIndicadores;User ID=sa;Password=DockerSql2017!",
+    "BaseLog": "UseDevelopmentStorage=true",
+    "UrlLogicAppAlerta": "https://demo7998062.mockable.io/logicapp-alertabd",
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet"
+  }
+}
